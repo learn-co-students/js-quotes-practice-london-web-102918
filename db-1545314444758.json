@@ -27,26 +27,19 @@
     {
       "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "likes": 11,
-      "author": "Winston Churchhill",
-      "users": 6
+      "likes": 1,
+      "author": "Winston Churchhill"
     },
     {
       "id": 6,
       "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
-      "likes": 37,
-      "author": "Newt Gingrich",
-      "users": 3
+      "likes": 1,
+      "author": "Newt Gingrich"
     },
     {
       "quote": "Yours is better",
       "author": "Simone",
       "id": 8
-    },
-    {
-      "quote": "Why is yours different",
-      "author": "Simone",
-      "id": 9
     }
   ]
 }
